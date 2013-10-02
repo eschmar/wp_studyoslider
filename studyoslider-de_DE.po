@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: studyoslider\n"
+"POT-Creation-Date: 2013-10-03 01:05+0100\n"
+"PO-Revision-Date: 2013-10-03 01:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: studyoslider.php:42
+msgid "Slide"
+msgstr "Slide"
+
+#: studyoslider.php:43
+msgid "Add New"
+msgstr "Neues Slide"
+
+#: studyoslider.php:44
+msgid "Add New Slide"
+msgstr "Neues Slide hinzufügen"
+
+#: studyoslider.php:45
+msgid "Edit Slide"
+msgstr "Slide bearbeiten"
+
+#: studyoslider.php:46
+msgid "New Slide"
+msgstr "Neues Slide"
+
+#: studyoslider.php:47
+msgid "All Slides"
+msgstr "Alle Slides"
+
+#: studyoslider.php:48
+msgid "View Slide"
+msgstr "Slide anschauen"
+
+#: studyoslider.php:49
+msgid "Search Slides"
+msgstr "Slides durchsuchen"
+
+#: studyoslider.php:50
+msgid "No slides found"
+msgstr "Keine Slides gefunden"
+
+#: studyoslider.php:51
+msgid "No slides found in the Trash"
+msgstr "Keine Slides im Papierkorb gefunden"
+
+#: studyoslider.php:72 studyoslider.php:82
+msgid "Slide Categories"
+msgstr "Slide Kategorien"
+
+#: studyoslider.php:73
+msgid "Slide Category"
+msgstr "Slide Kategorie"
+
+#: studyoslider.php:74
+msgid "Search Slide Categories"
+msgstr "Slide Kategorien durchsuchen"
+
+#: studyoslider.php:75
+msgid "All Slide Categories"
+msgstr "Alle Slide Kategorien"
+
+#: studyoslider.php:76
+msgid "Parent Slide Category"
+msgstr "Eltern Slide Kategorie"
+
+#: studyoslider.php:77
+msgid "Parent Slide Category:"
+msgstr "Eltern Slide Kategorie:"
+
+#: studyoslider.php:78
+msgid "Edit Slide Category"
+msgstr "Slide Kategorie bearbeiten"
+
+#: studyoslider.php:79
+msgid "Update Slide Category"
+msgstr "Slide Kategorie aktualisieren"
+
+#: studyoslider.php:80
+msgid "Add New Slide Category"
+msgstr "Neue Slide Kategorie hinzufügen"
+
+#: studyoslider.php:81
+msgid "New Slide Category"
+msgstr "Neue Slide Kategorie"
+
+#: studyoslider.php:104
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: studyoslider.php:118 studyoslider.php:176
+msgid "Order"
+msgstr "Reihenfolge"
+
+#: studyoslider.php:119
+msgid "Category"
+msgstr "Kategorie"
+
+#: studyoslider.php:120
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: studyoslider.php:165
+msgid "Attributes"
+msgstr "Attribute"
+
+#: studyoslider.php:177
+msgid "Slides are displayed in ascending order."
+msgstr "Slides werden in aufsteigender Reihenfolge ausgegeben."
+
+#: studyoslider.php:178
+msgid "CSS Classes"
+msgstr "CSS Klassen"
+
+#: studyoslider.php:179
+msgid "CSS classes added to this slides' caption."
+msgstr "CSS Klassen werden der Beschriftung dieses Slides hinzugefügt."
