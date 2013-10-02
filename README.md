@@ -4,6 +4,14 @@ Outputs a wrapped list of slides for easy triggering your chosen slider library 
 
 ## Usage
 
+Post fields:
+* **Title**: Image alt attribute 
+* **Content**: Caption
+* **Featured Image**: Slide image
+* **Custom Meta Box "Attributes":**
+  * **Order**: Value for manually ordering the slides (ascending order)
+  * **CSS Classes**: Will be added to the class attribute of the corresponding caption for styling and positioning by predefined css styles.
+
 Use this function inside your template:
 
 ```php
