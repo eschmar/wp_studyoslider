@@ -195,9 +195,7 @@ EOT;
 }
 
 // Save data from metabox
-add_action( 'save_post', 'product_price_box_save' );
-function product_price_box_save( $post_id ) {
-
+function studyo_slider_meta_box_save( $post_id ) {
 	if ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE ) 
 	return;
 
@@ -218,6 +216,7 @@ function product_price_box_save( $post_id ) {
 	update_post_meta( $post_id, 'slider_order', $slider_order );
 	update_post_meta( $post_id, 'slider_caption_classes', $slider_caption_classes );
 }
+add_action( 'save_post', 'studyo_slider_meta_box_save' );
 
 
 /***************************************************************************
