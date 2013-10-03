@@ -234,7 +234,7 @@ function studyo_slider_output($slug, $wrap_class = 'flexslider', $ul_class = 'sl
 
 	$slides = new WP_Query($args);
 
-	$output = '<div id="slider" class="'.$wrap_class.'"><ul class="'.$ul_class.'">';
+	$output = '<div class="'.$wrap_class.'"><ul class="'.$ul_class.'">';
 
 	if ($slides->have_posts()) {
 		while ($slides->have_posts()) {
