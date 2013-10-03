@@ -1,4 +1,4 @@
-#wp_studyoslider
+#wp_studyoSlider
 
 Outputs a wrapped list of slides for easy triggering your chosen slider library upon. This is a first version and by no means perfect nor complete. Includes german translation.
 
