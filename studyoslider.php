@@ -158,8 +158,8 @@ add_action( 'manage_slider_posts_custom_column', 'studyo_slider_custom_columns_c
  * SORTING META BOX
  ***************************************************************************/
 // Add meta box
-add_action( 'add_meta_boxes', 'studyo_slider_meta_box_order' );
-function studyo_slider_meta_box_order() {
+add_action( 'add_meta_boxes', 'studyo_slider_meta_box' );
+function studyo_slider_meta_box() {
     add_meta_box( 
         'slider_order_box',
         __( 'Attributes' ),
